@@ -1,0 +1,18 @@
+{
+  "products" : [
+ { "productId": 1,
+  "category" : "Tecnology",
+  "title" : "Camera Canon",
+  "imagePath" : "./public/products/1",
+  "description" : "Canon 354",
+  "price" : 3000
+},
+{
+  "productId": 2,
+  "category" : "Musica",
+  "title" : "Guitar",
+  "imagePath" : "./public/products/2",
+  "description" : "Ibanez Gio",
+  "price" : 120
+}
+]}
